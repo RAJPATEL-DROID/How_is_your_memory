@@ -1,5 +1,5 @@
 # Game which check the player's memory retention capacity.
-## Game which taught me lot about JavaScript and jQuery Functions .
+## It served as a useful learning tool for JavaScript and jQuery functions.
 
 ## This game is my implementation of a popular game known as Simon.
 
@@ -13,7 +13,6 @@
 ## What are you waiting for ?  [PLAY NOW](https://rajpatel-droid.github.io/How_is_your_memory/)
 <br><br>
 ># Things I Learned in this Project :
-## Working of Click and Sound function
-## Handling the classes
-## Use of Delays
-## How to use Flash animation
+## The workings of the Click and Sound feature
+## Class management and the use of delays
+## An introduction to Flash animation
